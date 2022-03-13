@@ -34,3 +34,4 @@ api/.idea/vcs.xml
 api/storage
 api/__pycache__
 api/.idea
+api/nlp/__pycache__

@@ -1,24 +1,5 @@
 {
-  "status": [
-    "AE",
-    "BH",
-    "DZ",
-    "EG",
-    "IQ",
-    "JO",
-    "KW",
-    "LB",
-    "LY",
-    "MA",
-    "OM",
-    "PL",
-    "QA",
-    "SA",
-    "SD",
-    "SY",
-    "TN",
-    "YE"
-  ],
+  "status": ["Model Ready"],
   "timestamp": "2022-03-12T16:40:49.275810",
   "classes": {
     "AE": {

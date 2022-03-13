@@ -32,3 +32,5 @@ api/.idea/vcs.xml
 .idea/inspectionProfiles/Project_Default.xml
 .idea/
 api/storage
+api/__pycache__
+api/.idea

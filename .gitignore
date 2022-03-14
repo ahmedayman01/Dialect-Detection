@@ -16,7 +16,7 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
-00.README.md
+README.md
 .idea/Dialect Detection.iml
 .idea/inspectionProfiles/profiles_settings.xml
 .idea/inspectionProfiles/Project_Default.xml
@@ -34,4 +34,4 @@ api/.idea/vcs.xml
 api/storage/
 api/__pycache__/
 api/.idea/
-api/nlp/__pycache__/
+api/models/__pycache__/

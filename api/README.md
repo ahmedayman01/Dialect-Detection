@@ -2,9 +2,9 @@
 To run the api simply clone the repository and download the weights files and then run the ```run.sh``` file. 
 
 ## Output 🎨
-Here is an example for the api.
+Here is an overview of the API.
 
-![](example/example.png)
+![](overview/overview.png)
 
 ## get- /ml-status
 to get the Machine Learning Model current status.

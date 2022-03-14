@@ -43,13 +43,11 @@ Response sample:
 
 ### Machine Learning Model
 I used TfidfVectorizer and LinearSVC to train a classifier model to classify the Dialect.
-### Why LinearSVC?
-Fit better and faster than other models.
+
 
 ### Deep Learning Model
 I used LSTM to train a classifier model to classify the Dialect.
-### Why LSTM?
-Fit better and faster than other models.
+
 
 
 ## Api! 🌍

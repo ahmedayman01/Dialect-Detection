@@ -21,7 +21,7 @@ from sklearn.preprocessing import LabelEncoder
 class DlTrainer:
 
     def __init__(self) -> None:
-        self.__voc_size = 40000
+        self.__voc_size = 10000
         self.__sent_length = 50
         self.__embedding_vector_features = 50
         self.__storage_path = os.path.join(os.path.dirname(

@@ -39,13 +39,13 @@ class PredictionsObject(BaseModel):
     predictions: List[PredictionObject]
 
 
-@app.get("/ml-status", summary="Get current status of the system")
+@app.get("/ml-status", summary="Get current status of the Machine Learning Model")
 def get_ml_status():
     status = ml_trainer.get_status()
     return StatusObject(**status)
 
 
-@app.get("/dl-status", summary="Get current status of the system")
+@app.get("/dl-status", summary="Get current status of the Deep Learning Model")
 def get_dl_status():
     status = dl_trainer.get_status()
     return StatusObject(**status)
